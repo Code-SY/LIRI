@@ -118,4 +118,4 @@ It will run concert-this for “Ed Sheeran”.
 * Javascript
 * NPM packages
 
-#### [Link to portfolio](https://code-sy.github.io/Portfolio/)
+#### [Link to portfolio](https://code-sy.github.io/Portfolio/portfolio.html)
